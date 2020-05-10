@@ -1,2 +1,0 @@
-This is added feature in the script
-This is testing for git add
